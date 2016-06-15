@@ -1,9 +1,12 @@
-require 'test_helper'
-
-class MessagesControllerTest < ActionController::TestCase
-  test "should get index" do
-    get :index
-    assert_response :success
+ def create
+    @message = Message.new(message_params)
+    if @message.save
+      redirect_to root_path , notice: 'メッセージを保存しました'
+    else
+      # メッセージが保存できなかった時
+      @messages = Message.all
+      flash.now[:alert] = "メッセージの保存に失敗しました。"
+      render 'index'
+    end
   end
-
-end
+  
