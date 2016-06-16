@@ -1,0 +1,71 @@
+[33mcommit 210c467ea2cb6fd045dcd1101517895bc163bd6b[m
+Author: mika <msakai@netprotections.co.jp>
+Date:   Wed Jun 15 05:41:21 2016 +0000
+
+    Gemfile update for heroku
+
+[33mcommit 429535b47900c1529818b5f08c6e0cd3d854335e[m
+Author: mika <msakai@netprotections.co.jp>
+Date:   Wed Jun 15 05:25:56 2016 +0000
+
+    sard commit
+
+[33mcommit 6815628a584d3c0c7c766472d22f23b65462d62c[m
+Author: mika <msakai@netprotections.co.jp>
+Date:   Wed Jun 15 04:59:55 2016 +0000
+
+    second commit
+
+[33mcommit 400889f7a06c3404df0dc28ffa535b9c3a78e1ee[m
+Author: mika <msakai@netprotections.co.jp>
+Date:   Wed Jun 15 04:48:44 2016 +0000
+
+    Implementation of the validation
+
+[33mcommit d1d2f53ce34b02212df380519918d18aedf7f76e[m
+Author: mika <msakai@netprotections.co.jp>
+Date:   Wed Jun 15 04:21:44 2016 +0000
+
+    second commit
+
+[33mcommit 2061acb210c35220c510d46580600a3444eb1fbb[m
+Author: mika <msakai@netprotections.co.jp>
+Date:   Wed Jun 15 02:48:20 2016 +0000
+
+    second commit
+
+[33mcommit a8c64f11f201a4ea62108f206abe47d8d181296b[m
+Author: mika <msakai@netprotections.co.jp>
+Date:   Wed Jun 15 02:38:13 2016 +0000
+
+    second commit
+
+[33mcommit 18fcce504d7412cd8e44439dfc98d2d9b944d12f[m
+Author: mika <msakai@netprotections.co.jp>
+Date:   Wed Jun 15 01:36:39 2016 +0000
+
+    challenge1
+
+[33mcommit 849bc7fdc0c6c72ccc5a274e52d7684d794b8e0a[m
+Author: mika <msakai@netprotections.co.jp>
+Date:   Wed Jun 15 01:03:30 2016 +0000
+
+    using Boostrap
+
+[33mcommit 2b8acdc20acf1919f9a0329dcbd4727adee5f594[m
+Author: mika <msakai@netprotections.co.jp>
+Date:   Tue Jun 14 05:56:44 2016 +0000
+
+    create message model
+
+[33mcommit 5e51697139dd51ba6a82257316eac32e80d16570[m
+Author: mika <msakai@netprotections.co.jp>
+Date:   Tue Jun 14 05:49:15 2016 +0000
+
+    create messages_controller
+
+[33mcommit 55e2f5de247cfb53a8d8394dbd544fe251abdc36[m
+Author: mika <msakai@netprotections.co.jp>
+Date:   Tue Jun 14 05:09:06 2016 +0000
+
+    first commit
